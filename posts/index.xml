@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hemingway2</title>
-    <link>https://example.com/posts/</link>
+    <link>http://neodevelop.github.io/posts/</link>
     <description>Recent content in Posts on Hemingway2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/beli3ver&#34;&gt;Malte Kiefer&lt;/a&gt; 2016</copyright>
     <lastBuildDate>Tue, 01 Aug 2017 12:05:35 -0500</lastBuildDate>
     
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://neodevelop.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Second Post</title>
-      <link>https://example.com/posts/my-second-post/</link>
+      <link>http://neodevelop.github.io/posts/my-second-post/</link>
       <pubDate>Tue, 01 Aug 2017 12:05:35 -0500</pubDate>
       
-      <guid>https://example.com/posts/my-second-post/</guid>
+      <guid>http://neodevelop.github.io/posts/my-second-post/</guid>
       <description> Hola mundo </description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://example.com/posts/my-first-post/</link>
+      <link>http://neodevelop.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 01 Aug 2017 11:44:23 -0500</pubDate>
       
-      <guid>https://example.com/posts/my-first-post/</guid>
+      <guid>http://neodevelop.github.io/posts/my-first-post/</guid>
       <description>Hola mundo!!!
 ¿Cómo estas?
 Una lista de cosas
